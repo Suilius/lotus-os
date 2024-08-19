@@ -152,8 +152,8 @@ xf86-video-amdgpu
 xf86-video-vmware
 
 ###Display Manager
-sddm
-
+#sddm
+lxdm
 
 ###Window Manager
 xfce4
@@ -288,5 +288,5 @@ unzip
 #youtube-dl
 #zenity
 #zsh
-zsh-completions
-zsh-syntax-highlighting
+#zsh-completions
+#zsh-syntax-highlighting
