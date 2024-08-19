@@ -123,7 +123,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-wezterm-terminfo
+#wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -184,7 +184,7 @@ arc-icon-theme
 ###themes
 adapta-gtk-theme
 arc-gtk-theme
-arc-darkest-theme-git
+#arc-darkest-theme-git
 #kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
