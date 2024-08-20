@@ -12,7 +12,7 @@
 LOTUS-OS is an Arch Linux based operating system with at least two desktop environments (xfce4 & qtile)
 
 ### Screenshot
-![Lotus-OS background](https://imgur.com/a/4pFgXjN)
+![Lotus-OS background]( https://imgur.com/a/4pFgXjN )
 
 ## Technologies
 ***
