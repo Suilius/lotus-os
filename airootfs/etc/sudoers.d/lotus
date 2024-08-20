@@ -1,0 +1,1 @@
+echo 'lotus ALL=(ALL) ALL' > airootfs/etc/sudoers.d/lotus
