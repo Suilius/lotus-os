@@ -50,14 +50,6 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (61%)"/>
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (60%)"/>
-        <value type="string" value="funknetzwerkadresse für »marab999« wird angefordert …"/>
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (59%)"/>
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (63%)"/>
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (58%)"/>
-        <value type="string" value="ethernet-netzverbindung »kabelgebundene verbindung 1« ist aktiv"/>
-        <value type="string" value="funknetzwerkverbindung mit »marab999« ist aktiv: marab999 (71%)"/>
         <value type="string" value="netzwerk-manager-applet"/>
         <value type="string" value="networkmanager applet"/>
       </property>
@@ -100,7 +92,7 @@
       <property name="menu-opacity" type="int" value="85"/>
       <property name="launcher-icon-size" type="int" value="2"/>
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="/home/suilius/Graphics/lotus_480_t.png"/>
+      <property name="button-icon" type="string" value="/home/lotus/Graphics/lotus_480_t.png"/>
       <property name="button-title" type="string" value="Menu"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="position-search-alternate" type="bool" value="true"/>
