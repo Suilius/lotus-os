@@ -113,7 +113,7 @@
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/lotus-flower_1920x1080-bg.png"/>
         </property>
       </property>
-      <property name="monitorVirt1" type="empty">
+      <property name="monitorVirtual-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>

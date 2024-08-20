@@ -100,8 +100,8 @@
       <property name="menu-opacity" type="int" value="85"/>
       <property name="launcher-icon-size" type="int" value="2"/>
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="/home/suilius/Graphics/dragon-logo-icon-transp.png"/>
-      <property name="button-title" type="string" value="Menü"/>
+      <property name="button-icon" type="string" value="/home/suilius/Graphics/lotus_480_t.png"/>
+      <property name="button-title" type="string" value="Menu"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="position-search-alternate" type="bool" value="true"/>
       <property name="position-commands-alternate" type="bool" value="false"/>
