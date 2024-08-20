@@ -14,12 +14,13 @@ LOTUS-OS is an Arch Linux based operating system with at least two desktop envir
 ### Screenshot
 ![Lotus-OS background](https://i.imgur.com/cnd8svx.png)
 
-## Technologies
+## Based On
 ***
-A list of technologies used within the project:
+A list of technologies and inspirations used within the project:
 * [Arch Linux](https://archlinux.org/): Rolling Release 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* Inspired by [Arcolinux](https://arcolinux.com) and [Erik Dubois] (https://github.com/erikdubois)
+
+**More to come (if i have more time for this ;-)**
 
 ## Installation
 ***
