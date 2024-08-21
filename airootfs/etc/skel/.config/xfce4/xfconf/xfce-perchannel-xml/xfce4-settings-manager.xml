@@ -6,3 +6,8 @@
     <property name="window-height" type="int" value="500"/>
   </property>
 </channel>
+<xfconf>
+  <channel name="xfce4-desktop">
+    <property name="background-picture-filename" type="string">usr/share/backgrounds/xfce/lotus-flower_1920x1080-bg.png</property>
+  </channel>
+</xfconf>
