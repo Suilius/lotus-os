@@ -2,7 +2,7 @@
 set -e
 ######################################################################
 # Author  :    SuiliuS
-# Website :
+# Website : https://github.com/Suilius/
 ######################################################################
 
 sudo rm -rf ~/iso-building/v1/work

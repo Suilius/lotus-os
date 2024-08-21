@@ -2,14 +2,15 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [Based On](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
 ### General Info 
 ***
-LOTUS-OS is an Arch Linux based operating system with at least two desktop environments (xfce4 & qtile)
+LOTUS-OS is an Arch Linux based operating system with at least two desktop environments (xfce4 & qtile).
+This is version 1. It is a clean Live-CD with xfce4 WM without any installer.
 
 ### Screenshot
 ![Lotus-OS background](https://i.imgur.com/cnd8svx.png)

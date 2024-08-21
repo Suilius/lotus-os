@@ -208,7 +208,7 @@ arandr
 bash-completion
 #baobab
 #bat
-#catfish
+catfish
 #cronie
 #dconf-editor
 #dex
@@ -227,13 +227,13 @@ git
 #gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
-#gparted
+gparted
 #gpick
 #gtop
 #hardinfo-gtk3
 #hddtemp
 htop
-#hunspell
+hunspell
 #hunspell-en_US
 #hw-probe
 #hyphen
@@ -245,6 +245,7 @@ iw
 #libmtp
 #laptop-detect
 #lsb-release
+meld
 #mlocate
 #nomacs
 #-oh-my-zsh-git
@@ -262,7 +263,7 @@ pkgfile
 #qt5-tools
 #qt5-webkit
 #powertop
-#ripgrep
+ripgrep
 #rofi
 #rxvt-unicode
 #simple-scan
@@ -289,5 +290,5 @@ unzip
 #youtube-dl
 #zenity
 #zsh
-#zsh-completions
-#zsh-syntax-highlighting
+zsh-completions
+zsh-syntax-highlighting
