@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-desktop" version="1.0">
-    <property name="last-image" type="string" value="usr/share/backgrounds/xfce/lotus-flower_1920x1080-bg.png"/>
+    <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/lotus-flower_1920x1080-bg.png"/>
     </property>
 </channel>
